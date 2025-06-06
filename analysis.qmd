@@ -11,3 +11,5 @@ editor: visual
 x <- 1
 ```
 
+# Step 1. Read in the data
+
