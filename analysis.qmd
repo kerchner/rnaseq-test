@@ -1,0 +1,13 @@
+---
+title: "Analysis of RNASeq data"
+author: "Dan Kerchner"
+format: pdf
+editor: visual
+---
+
+# Do the work
+
+```{r}
+x <- 1
+```
+
